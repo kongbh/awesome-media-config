@@ -11,4 +11,4 @@ spring:
     console:
       enabled: true
 
-name : kongbh-default
+name : kongbh-default-hi
