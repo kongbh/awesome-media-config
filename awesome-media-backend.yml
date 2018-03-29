@@ -10,3 +10,5 @@ spring:
     name: awesome-media-backend
     
 promotion: action
+
+name : kongbh-default
